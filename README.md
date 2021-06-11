@@ -1,6 +1,7 @@
 # No Pain, No Gain: analyzing Colorado trail reviews from Alltrails.com
 ![banner](/images/banner.jpg)
 ### Tim Childers | Data Science Immersive (May '21) | Capstone Project I
+[Presentation](https://docs.google.com/presentation/d/1kdCTQPEqYhegzGAEBTwRqjShCLQG_Jh9Sd1J0s4u_uU/edit?usp=sharing)
 ## Introduction
 I've always been an enthusiastic hiker and backpacker. When I look back at my favorite hiking trips, there's one thing they have in common. They were all uniquely challenging or difficult and I experienced a little pain and suffering during the hike. They were all hikes that I consider [type II fun](https://www.rei.com/blog/climb/fun-scale) (miserable while it was happening, but fun in retrospect). This led me to a question. Are other hikers like me?\
 
