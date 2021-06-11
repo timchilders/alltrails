@@ -53,10 +53,10 @@ notebook located in notebooks/:
 * Null hypothesis: difficulty rating, hike length or total elevation gain have no effect on hike rating.
 * one-tailed so setting alpha threshold to 0.025/2 to account for overtesting of first test. (0.025 for elevation and length)
 
-*Popular hikes (most reviews) feature waterfalls and wildflowers.* 
+*High rated hikes feature waterfalls and wildflowers.* 
 
 * Null hypothesis: popular hikes have no distinctive features.
-* Testing hypothesis on two features so alpha threshold is 0.025/2
+* Testing hypothesis on two features so alpha threshold is 0.025
 
 **1st Hypothesis:** *More difficult trails are rated higher.*
 
@@ -82,7 +82,7 @@ Two samples were taken from the data for each hypothesis (wildflowers and waterf
   <img src="/images/beauty_distro.png" width="900" />
 </p>
 
-Again, I conducted a *Mann-Whitney U Test* for each hypothesis. The waterfalls samples yielded a p-value of: 0.0006, far below the alpha of 0.0125. However the waterfall samples yielded a p-value of 0.052, higher than the alpha.
+Again, I conducted a *Mann-Whitney U Test* for each hypothesis. The waterfalls samples yielded a p-value of: 0.0006, far below the alpha of 0.025. However the waterfall samples yielded a p-value of 0.052, higher than the alpha.
 
 notebook located in notebooks/:
 
