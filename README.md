@@ -56,7 +56,7 @@ notebook located in notebooks/:
 *High rated hikes feature waterfalls and wildflowers.* 
 
 * Null hypothesis: popular hikes have no distinctive features.
-* Testing hypothesis on two features so alpha threshold is 0.025
+* Testing hypothesis for one-tailed statistic, alpha threshold is 0.025
 
 **1st Hypothesis:** *More difficult trails are rated higher.*
 
